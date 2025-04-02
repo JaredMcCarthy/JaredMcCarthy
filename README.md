@@ -11,8 +11,6 @@ I'm deeply interested in creating **innovative solutions** that help people and 
 
 ## 🚀 Tech Stack  
 
-## 🚀 Tech Stack  
-
 ### **Languages**  
 <div style="display: flex; gap: 15px; flex-wrap: wrap;">
   <a href="https://www.python.org/" style="text-decoration: none;">
