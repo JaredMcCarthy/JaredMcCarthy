@@ -29,9 +29,6 @@ I'm deeply interested in creating **innovative solutions** that help people and 
 | ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) |
 | MySQL Workbench |
 
-
-
-
 ## 🛠️ Current Project  
 🚧 **Study App** – Currently developing an app that allows students to track their study hours, record topics, and share their progress with other universities. This platform aims to help students gain experience, expand their network, and improve their study habits.  
 
