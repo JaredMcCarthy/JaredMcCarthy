@@ -12,18 +12,40 @@ I'm deeply interested in creating **innovative solutions** that help people and 
 ## 🚀 Tech Stack  
 
 ### **Languages**  
-[![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)  
+<div style="display: flex; gap: 10px;">
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+  </a>
+</div>
 
 ### **Tools & Environments**  
-[![PyCharm](https://img.shields.io/badge/PyCharm-%234B4B6A.svg?style=for-the-badge&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/pycharm/)  
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)  
-[![Replit](https://img.shields.io/badge/Replit-%23000000.svg?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/)  
+<div style="display: flex; gap: 10px;">
+  <a href="https://www.jetbrains.com/pycharm/">
+    <img src="https://img.shields.io/badge/PyCharm-%234B4B6A.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="PyCharm">
+  </a>
+  <a href="https://visualstudio.microsoft.com/">
+    <img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white" alt="VS">
+  </a>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://replit.com/">
+    <img src="https://img.shields.io/badge/Replit-%23000000.svg?style=for-the-badge&logo=replit&logoColor=white" alt="Replit">
+  </a>
+</div>
 
 ### **Databases**  
-[![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/products/workbench/)  
+<div style="display: flex; gap: 10px;">
+  <a href="https://www.mysql.com/products/workbench/">
+    <img src="https://img.shields.io/badge/MySQL%20Workbench-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  </a>
+</div> 
 
 ## 🛠️ Current Project  
 🚧 **Study App** – Currently developing an app that allows students to track their study hours, record topics, and share their progress with other universities. This platform aims to help students gain experience, expand their network, and improve their study habits.  
