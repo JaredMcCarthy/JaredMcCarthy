@@ -1,1 +1,1 @@
-### Hi there, I'm [Durgesh Samariya](https://durgeshsamariya.github.io) 👋
+### Hi there, I'm [Durgesh Samariya])(https://github.com/JaredMcCarthy)👋
