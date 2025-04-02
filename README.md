@@ -15,19 +15,19 @@ I'm deeply interested in creating **innovative solutions** that help people and 
 | Python | JavaScript | SQL |
 |--------|------------|-----|
 | ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) |
-| Python | JavaScript | SQL |
+
 
 ### Tools & Environments  
 | PyCharm | Visual Studio | GitHub | Replit |
 |---------|---------------|--------|--------|
 | ![PyCharm](https://img.shields.io/badge/PyCharm-%234B4B6A.svg?style=for-the-badge&logo=jetbrains&logoColor=white) | ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) | ![Replit](https://img.shields.io/badge/Replit-%23000000.svg?style=for-the-badge&logo=replit&logoColor=white) |
-| PyCharm | Visual Studio | GitHub | Replit |
+
 
 ### Databases  
 | MySQL Workbench |
 |-----------------|
 | ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) |
-| MySQL Workbench |
+
 
 
 
