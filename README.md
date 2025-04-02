@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Jared López McCarthy  
+# 👋🏽 Hey, I'm [Jared López McCarthy](https://github.com/JaredMcCarthy)
 
 💻 Passionate about **app & website development**, **data analysis**, and constantly learning new technologies.  
 I'm deeply interested in creating **innovative solutions** that help people and improve their daily lives. Whether through **data-driven insights** or creating new tools, I'm excited about the potential of tech to make a difference.  
