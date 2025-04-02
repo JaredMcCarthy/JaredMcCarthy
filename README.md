@@ -28,7 +28,10 @@ I have **2 years of experience** as a real-time data analyst, gaining strong ski
 ✅ Expanding my knowledge in **new programming languages**  
 
 ## 🛠️ Current Project  
-🚧 I'm actively working on a **personal project** and open to anyone interested in joining! If you're into **web development, frontend design, or data visualization**, let’s collaborate and build something awesome together.  
+🚧 **Study App** – Currently working on an app designed to help students track their study hours, record the topics they've covered, and share their progress with other universities. The goal is to provide a platform for students to gain more experience, expand their network, and improve their study habits by engaging with a larger academic community.  
+🔧 Technologies used so far: **Python** & **SQL**.  
+🔄 The project is in its early stages, and I'm exploring potential features to enhance the app’s functionality and user experience.
+
 
 ## 📚 About Me  
 🎓 **Second-year Computer Engineering student** at **Universidad José Cecilio del Valle (Honduras)**  
