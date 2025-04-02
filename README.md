@@ -58,5 +58,8 @@ I'm deeply interested in creating **innovative solutions** that help people and 
 ⚡ Passionate about technology and eager to connect with like-minded developers  
  
 ## 📫 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil/)  [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/McCode)  [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu_usuario)  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)]([https://www.facebook.com/tu_usuario](https://www.facebook.com/share/1624HTvv4J/?mibextid=wwXIfr))
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jared-mccarthy-466386288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaredMcCarthy)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_jaredmccarthy?igsh=ZnRiMnFjcG54ZDM4)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1UKVcHmyu3/?mibextid=wwXIfr)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jared.lopezmccarthy05@gmail.com?subject=Contacto%20desde%20GitHub&body=¡Hola%20Jared!)
