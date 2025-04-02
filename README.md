@@ -11,25 +11,22 @@ I'm deeply interested in creating **innovative solutions** that help people and 
 
 ## 🚀 Tech Stack  
 
-🔹 **Languages**:  
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" width="80" alt="Python"/><br> Python  
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="80" alt="JavaScript"/><br> JavaScript  
-  <img src="https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" width="80" alt="SQL"/><br> SQL  
-</p>
+### Languages
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+Python    ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+JavaScript    ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+SQL  
 
-🔹 **Tools & Environments**:  
-<p align="center">
-  <img src="https://img.shields.io/badge/PyCharm-%234B4B6A.svg?style=for-the-badge&logo=jetbrains&logoColor=white" width="80" alt="PyCharm"/><br> PyCharm  
-  <img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white" width="80" alt="Visual Studio"/><br> Visual Studio  
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" width="80" alt="GitHub"/><br> GitHub  
-  <img src="https://img.shields.io/badge/Replit-%23000000.svg?style=for-the-badge&logo=replit&logoColor=white" width="80" alt="Replit"/><br> Replit  
-</p>
+### Tools & Environments  
+![PyCharm](https://img.shields.io/badge/PyCharm-%234B4B6A.svg?style=for-the-badge&logo=jetbrains&logoColor=white)  
+PyCharm    ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)  
+Visual Studio    ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)  
+GitHub    ![Replit](https://img.shields.io/badge/Replit-%23000000.svg?style=for-the-badge&logo=replit&logoColor=white)  
+Replit  
 
-🔹 **Databases**:  
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL%20Workbench-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" width="80" alt="MySQL Workbench"/><br> MySQL Workbench  
-</p>
+### Databases  
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+MySQL Workbench
 
 
 ## 🛠️ Current Project  
