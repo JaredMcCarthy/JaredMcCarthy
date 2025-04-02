@@ -3,19 +3,26 @@
 💻 Passionate about **app & website development**, **data analysis**, and constantly learning new technologies.  
 I'm deeply interested in creating **innovative solutions** that help people and improve their daily lives. Whether through **data-driven insights** or creating new tools, I'm excited about the potential of tech to make a difference.  
 
-## 🚀 Tech Stack  
-🔹 **Excel** – Advanced  
-🔹 **Power BI** – Upper Intermediate  
-🔹 **SQL** – Intermediate  
-🔹 **Python** – Learning and applying in projects  
-🔹 **JavaScript & Frontend Development** – Currently learning  
-🔹 **Data Structures & Algorithms** – Exploring  
-
 ## 🌟 Open to:  
 ✅ Participating in **hackathons & tech projects**  
 ✅ Collaborating on **data-driven applications**  
 ✅ Freelance, project-based, or **junior-level opportunities**  
 ✅ Expanding my knowledge in **new programming languages**  
+
+## 🚀 Tech Stack  
+🔹 **Languages**:  
+[![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)  
+[![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
+🔹 **Tools & Environments**:  
+[![PyCharm](https://img.shields.io/badge/PyCharm-%234B4B6A.svg?style=for-the-badge&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/pycharm/)  
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/McCode)  
+[![Replit](https://img.shields.io/badge/Replit-%23000000.svg?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/)
+
+🔹 **Databases**:  
+[![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/products/workbench/)
 
 ## 🛠️ Current Project  
 🚧 **Study App** – Currently developing an app that allows students to track their study hours, record topics, and share their progress with other universities. This platform aims to help students gain experience, expand their network, and improve their study habits.  
