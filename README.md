@@ -15,30 +15,36 @@ I'm deeply interested in creating **innovative solutions** that help people and 
 ---
 
 ## 🚀 Tech Stack  
+## 🚀 Tech Stack
 
-### **Languages**  
-[![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)]()  
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()  
-[![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)]()  
-[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)]()  
-[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)]()  
+### **Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### 🧰 **Tools & Environments**  
-🖥️ Development:  
-[![PyCharm](https://img.shields.io/badge/PyCharm-%234B4B6A.svg?style=for-the-badge&logo=jetbrains&logoColor=white)]()  
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)]()  
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)]()  
-[![Replit](https://img.shields.io/badge/Replit-%23000000.svg?style=for-the-badge&logo=replit&logoColor=white)]()  
-[![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=for-the-badge&logoColor=white)]()  
+---
 
-🚀 Deployment:  
-[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)]()  
-[![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)]()  
-[![Render](https://img.shields.io/badge/Render-%233f4f75.svg?style=for-the-badge&logoColor=white)]()  
+### 🧰 Tools & Environments
 
-### 🗄️ **Databases**  
-[![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)]()  
-[![Neon PostgreSQL](https://img.shields.io/badge/Neon%20PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)]()  
+**Development:**
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Replit](https://img.shields.io/badge/-Replit-667881?style=flat&logo=replit&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat)
+
+**Deployment:**
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=white)
+
+---
+
+### 🗄️ Databases
+![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-4479A1?style=flat&logo=mysql&logoColor=white)
+![Neon PostgreSQL](https://img.shields.io/badge/-Neon%20PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
