@@ -13,38 +13,44 @@ I'm deeply interested in creating **innovative solutions** that help people and 
 ✅ Expanding my knowledge in **new programming languages**
 
 ---
-
-## 🚀 Tech Stack  
 ## 🚀 Tech Stack
 
-### **Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<h3>Languages</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
-### 🧰 Tools & Environments
+<h3>🧰 Tools & Environments</h3>
 
-**Development:**
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Replit](https://img.shields.io/badge/-Replit-667881?style=flat&logo=replit&logoColor=white)
-![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat)
+<strong>Development:</strong>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/119010437?s=200&v=4" width="40" height="40" title="Cursor IDE"/>
+</p>
 
-**Deployment:**
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=white)
+<strong>Deployment:</strong>
+<p>
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" width="40" height="40" title="Render"/>
+</p>
 
 ---
 
-### 🗄️ Databases
-![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-4479A1?style=flat&logo=mysql&logoColor=white)
-![Neon PostgreSQL](https://img.shields.io/badge/-Neon%20PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+<h3>🗄️ Databases</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/98130164?s=200&v=4" width="40" height="40" title="Neon PostgreSQL"/>
+</p>
 
 ---
 
