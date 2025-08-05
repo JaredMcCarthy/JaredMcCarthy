@@ -18,25 +18,25 @@ I'm deeply interested in creating **innovative solutions** that help people and 
 <!-- Languages -->
 <h3>Languages</h3>
 <div align="left">
-  <table>
+  <table style="border-collapse: collapse; border: none;">
     <tr>
-      <td align="center" style="padding: 10px;">
+      <td align="center" style="padding: 20px; border: none;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><br/>
         <sub>Python</sub>
       </td>
-      <td align="center" style="padding: 10px;">
+      <td align="center" style="padding: 20px; border: none;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><br/>
         <sub>JavaScript</sub>
       </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/><br/>
+      <td align="center" style="padding: 20px; border: none;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><br/>
         <sub>SQL</sub>
       </td>
-      <td align="center" style="padding: 10px;">
+      <td align="center" style="padding: 20px; border: none;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><br/>
         <sub>HTML5</sub>
       </td>
-      <td align="center" style="padding: 10px;">
+      <td align="center" style="padding: 20px; border: none;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><br/>
         <sub>CSS3</sub>
       </td>
@@ -47,26 +47,26 @@ I'm deeply interested in creating **innovative solutions** that help people and 
 <!-- Tools & Environments -->
 <h3>🧰 Tools & Environments</h3>
 <div align="left">
-  <table>
+  <table style="border-collapse: collapse; border: none;">
     <tr>
-      <td align="center" style="padding: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain.svg" width="40" height="40"/><br/>
+      <td align="center" style="padding: 20px; border: none;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/><br/>
         <sub>PyCharm</sub>
       </td>
-      <td align="center" style="padding: 10px;">
+      <td align="center" style="padding: 20px; border: none;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/><br/>
         <sub>Visual Studio</sub>
       </td>
-      <td align="center" style="padding: 10px;">
+      <td align="center" style="padding: 20px; border: none;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/><br/>
         <sub>GitHub</sub>
       </td>
-      <td align="center" style="padding: 10px;">
+      <td align="center" style="padding: 20px; border: none;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/replit/replit-original.svg" width="40" height="40"/><br/>
         <sub>Replit</sub>
       </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://avatars.githubusercontent.com/u/121075515?s=200&v=4" width="40" height="40"/><br/>
+      <td align="center" style="padding: 20px; border: none;">
+        <img src="https://github.com/getcursor/cursor/blob/main/apps/desktop/resources/icon.png?raw=true" width="40" height="40"/><br/>
         <sub>Cursor</sub>
       </td>
     </tr>
@@ -76,18 +76,18 @@ I'm deeply interested in creating **innovative solutions** that help people and 
 <!-- Deployment -->
 <h3>🚀 Deployment</h3>
 <div align="left">
-  <table>
+  <table style="border-collapse: collapse; border: none;">
     <tr>
-      <td align="center" style="padding: 10px;">
-        <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="40" height="40"/><br/>
+      <td align="center" style="padding: 20px; border: none;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40"/><br/>
         <sub>Vercel</sub>
       </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40"/><br/>
+      <td align="center" style="padding: 20px; border: none;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40" height="40"/><br/>
         <sub>Netlify</sub>
       </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Render_logo.svg/512px-Render_logo.svg.png" width="40" height="40"/><br/>
+      <td align="center" style="padding: 20px; border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/render-2.svg" width="40" height="40"/><br/>
         <sub>Render</sub>
       </td>
     </tr>
@@ -97,14 +97,14 @@ I'm deeply interested in creating **innovative solutions** that help people and 
 <!-- Databases -->
 <h3>🗄️ Databases</h3>
 <div align="left">
-  <table>
+  <table style="border-collapse: collapse; border: none;">
     <tr>
-      <td align="center" style="padding: 10px;">
-        <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" width="40" height="40"/><br/>
+      <td align="center" style="padding: 20px; border: none;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><br/>
         <sub>MySQL Workbench</sub>
       </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://www.svgrepo.com/show/374095/neon.svg" width="40" height="40"/><br/>
+      <td align="center" style="padding: 20px; border: none;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/><br/>
         <sub>Neon PostgreSQL</sub>
       </td>
     </tr>
