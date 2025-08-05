@@ -13,89 +13,103 @@ I'm deeply interested in creating **innovative solutions** that help people and 
 ✅ Expanding my knowledge in **new programming languages**
 
 ---
-## 🚀 Tech Stack
+<h2>🚀 Tech Stack</h2>
 
+<!-- Languages -->
 <h3>Languages</h3>
-<p style="display: flex; gap: 20px;">
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-    <div>Python</div>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-    <div>JavaScript</div>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-    <div>MySQL</div>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-    <div>HTML</div>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-    <div>CSS</div>
-  </div>
-</p>
+<div align="left">
+  <table>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><br/>
+        <sub>Python</sub>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><br/>
+        <sub>JavaScript</sub>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/><br/>
+        <sub>SQL</sub>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><br/>
+        <sub>HTML5</sub>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><br/>
+        <sub>CSS3</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
----
-
+<!-- Tools & Environments -->
 <h3>🧰 Tools & Environments</h3>
+<div align="left">
+  <table>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain.svg" width="40" height="40"/><br/>
+        <sub>PyCharm</sub>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/><br/>
+        <sub>Visual Studio</sub>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/><br/>
+        <sub>GitHub</sub>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/replit/replit-original.svg" width="40" height="40"/><br/>
+        <sub>Replit</sub>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://avatars.githubusercontent.com/u/121075515?s=200&v=4" width="40" height="40"/><br/>
+        <sub>Cursor</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<strong>Development:</strong>
-<p style="display: flex; gap: 20px;">
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/>
-    <div>PyCharm</div>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-    <div>VS Code</div>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-    <div>GitHub</div>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" width="40" height="40"/>
-    <div>Replit</div>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://avatars.githubusercontent.com/u/119010437?s=200&v=4" width="40" height="40"/>
-    <div>Cursor</div>
-  </div>
-</p>
+<!-- Deployment -->
+<h3>🚀 Deployment</h3>
+<div align="left">
+  <table>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="40" height="40"/><br/>
+        <sub>Vercel</sub>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40"/><br/>
+        <sub>Netlify</sub>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Render_logo.svg/512px-Render_logo.svg.png" width="40" height="40"/><br/>
+        <sub>Render</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<strong>Deployment:</strong>
-<p style="display: flex; gap: 20px;">
-  <div style="text-align: center;">
-    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40"/>
-    <div>Vercel</div>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40"/>
-    <div>Netlify</div>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" width="40" height="40"/>
-    <div>Render</div>
-  </div>
-</p>
-
----
-
+<!-- Databases -->
 <h3>🗄️ Databases</h3>
-<p style="display: flex; gap: 20px;">
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-    <div>MySQL</div>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://avatars.githubusercontent.com/u/98130164?s=200&v=4" width="40" height="40"/>
-    <div>Neon</div>
-  </div>
-</p>
+<div align="left">
+  <table>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" width="40" height="40"/><br/>
+        <sub>MySQL Workbench</sub>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://www.svgrepo.com/show/374095/neon.svg" width="40" height="40"/><br/>
+        <sub>Neon PostgreSQL</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
