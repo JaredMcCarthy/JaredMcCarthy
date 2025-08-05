@@ -3,7 +3,7 @@
 💻 Passionate about **app & website development**, **data analysis**, and constantly learning new technologies.  
 I'm deeply interested in creating **innovative solutions** that help people and improve their daily lives. Whether through **data-driven insights** or creating new tools, I'm excited about the potential of tech to make a difference.
 
-![Banner](https://raw.githubusercontent.com/JaredMcCarthy/JaredMcCarthy/main/banner.png) <!-- Asegúrate de subir tu imagen a tu repo y renombrarla como banner.png -->
+![Banner](https://raw.githubusercontent.com/JaredMcCarthy/JaredMcCarthy/main/banner.png)
 
 ## 🌟 Open to:  
 ✅ Participating in **hackathons & tech projects**  
@@ -22,13 +22,17 @@ I'm deeply interested in creating **innovative solutions** that help people and 
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 </div>
 
-### **Tools & Environments**  
+### **Development Tools**  
 <div style="display: flex; gap: 15px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/PyCharm-%234B4B6A.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="PyCharm">
   <img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white" alt="VS">
+  <img src="https://img.shields.io/badge/Cursor-%23000000.svg?style=for-the-badge&logoColor=white" alt="Cursor">
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Replit-%23000000.svg?style=for-the-badge&logo=replit&logoColor=white" alt="Replit">
-  <img src="https://img.shields.io/badge/Cursor-%23000000.svg?style=for-the-badge&logoColor=white" alt="Cursor">
+</div>
+
+### **Deployment Platforms**  
+<div style="display: flex; gap: 15px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
   <img src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
   <img src="https://img.shields.io/badge/Render-%233f4f75.svg?style=for-the-badge&logoColor=white" alt="Render">
@@ -41,7 +45,7 @@ I'm deeply interested in creating **innovative solutions** that help people and 
 </div>
 
 ## 🛠️ Current Project  
-🚧 **Personal Portfolio Website** – Currently building my own developer portfolio **from scratch without AI assistance**, to showcase my projects, skills, and experience. This is a self-driven initiative to improve my front-end skills and presence as a developer.  
+🚧 **Personal Portfolio Website** – Currently building my own developer portfolio **from scratch without AI assistance**, to showcase my projects, skills, and experience. This is a self-driven initiative to improve my front-end skills and establish my professional presence as a developer.  
 
 ## 📚 About Me  
 🎓 **Second-year Computer Engineering student** at **Universidad José Cecilio del Valle (Honduras)**  
