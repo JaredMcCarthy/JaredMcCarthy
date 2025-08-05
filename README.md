@@ -16,12 +16,27 @@ I'm deeply interested in creating **innovative solutions** that help people and 
 ## 🚀 Tech Stack
 
 <h3>Languages</h3>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<p style="display: flex; gap: 20px;">
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+    <div>Python</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+    <div>JavaScript</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+    <div>MySQL</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+    <div>HTML</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+    <div>CSS</div>
+  </div>
 </p>
 
 ---
@@ -29,27 +44,57 @@ I'm deeply interested in creating **innovative solutions** that help people and 
 <h3>🧰 Tools & Environments</h3>
 
 <strong>Development:</strong>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/119010437?s=200&v=4" width="40" height="40" title="Cursor IDE"/>
+<p style="display: flex; gap: 20px;">
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/>
+    <div>PyCharm</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+    <div>VS Code</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+    <div>GitHub</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" width="40" height="40"/>
+    <div>Replit</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://avatars.githubusercontent.com/u/119010437?s=200&v=4" width="40" height="40"/>
+    <div>Cursor</div>
+  </div>
 </p>
 
 <strong>Deployment:</strong>
-<p>
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" width="40" height="40" title="Render"/>
+<p style="display: flex; gap: 20px;">
+  <div style="text-align: center;">
+    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40"/>
+    <div>Vercel</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40"/>
+    <div>Netlify</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" width="40" height="40"/>
+    <div>Render</div>
+  </div>
 </p>
 
 ---
 
 <h3>🗄️ Databases</h3>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/98130164?s=200&v=4" width="40" height="40" title="Neon PostgreSQL"/>
+<p style="display: flex; gap: 20px;">
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+    <div>MySQL</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://avatars.githubusercontent.com/u/98130164?s=200&v=4" width="40" height="40"/>
+    <div>Neon</div>
+  </div>
 </p>
 
 ---
