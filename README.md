@@ -1,1 +1,1 @@
-Currently learning Javascript with chrome extension project and building TaskFlowCLI with Python.
+Currently learning Javascript with Chrome Extension project, and building TaskFlowCLI with python.
